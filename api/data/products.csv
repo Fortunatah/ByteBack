@@ -1,0 +1,5 @@
+part_id,category,model,vram_gb,clock_speed_mhz,health_pct,price_usd,market_equivalent_item,market_equivalent_price
+BBT-GPU-001,GPU,RTX 3070,8,1725,94,295,RTX 4060,300
+BBT-RAM-001,RAM,Corsair Vengeance,16,3200,98,45,Generic 8GB Stick,40
+BBT-GPU-002,GPU,GTX 1660 Super,6,1530,88,120,GTX 1650 (New),160
+BBT-CPU-001,CPU,Ryzen 7 3700X,N/A,3600,96,130,Core i3-12100,125
